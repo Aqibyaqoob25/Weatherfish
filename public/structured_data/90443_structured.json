@@ -1,0 +1,295 @@
+{
+    "current": {
+        "temperature": 0,
+        "humidity": 97,
+        "current_precipitation": "rain",
+        "feels like": -3,
+        "overcast": "cloudy"
+    },
+    "hourly": {
+        "23": {
+            "temperature": 0,
+            "humidity": 93,
+            "apparent_temperature": -2,
+            "precipitation probability": 25.0,
+            "overcast": "cloudy"
+        },
+        "0": {
+            "temperature": 0,
+            "humidity": 92,
+            "apparent_temperature": -2,
+            "precipitation probability": 15.0,
+            "overcast": "cloudy"
+        },
+        "1": {
+            "temperature": 0,
+            "humidity": 93,
+            "apparent_temperature": -2,
+            "precipitation probability": 8.0,
+            "overcast": "cloudy"
+        },
+        "2": {
+            "temperature": 0,
+            "humidity": 94,
+            "apparent_temperature": -2,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "3": {
+            "temperature": 0,
+            "humidity": 94,
+            "apparent_temperature": -2,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "4": {
+            "temperature": 0,
+            "humidity": 94,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "5": {
+            "temperature": 0,
+            "humidity": 95,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "6": {
+            "temperature": 0,
+            "humidity": 95,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "7": {
+            "temperature": 0,
+            "humidity": 95,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "8": {
+            "temperature": 0,
+            "humidity": 95,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "9": {
+            "temperature": 1,
+            "humidity": 92,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "10": {
+            "temperature": 1,
+            "humidity": 89,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "11": {
+            "temperature": 2,
+            "humidity": 85,
+            "apparent_temperature": 0,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "12": {
+            "temperature": 2,
+            "humidity": 85,
+            "apparent_temperature": 0,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "13": {
+            "temperature": 2,
+            "humidity": 83,
+            "apparent_temperature": 0,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "14": {
+            "temperature": 2,
+            "humidity": 88,
+            "apparent_temperature": -1,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "15": {
+            "temperature": 1,
+            "humidity": 90,
+            "apparent_temperature": -2,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "16": {
+            "temperature": 1,
+            "humidity": 90,
+            "apparent_temperature": -2,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "17": {
+            "temperature": 0,
+            "humidity": 91,
+            "apparent_temperature": -2,
+            "precipitation probability": 0.0,
+            "overcast": "cloudy"
+        },
+        "18": {
+            "temperature": 0,
+            "humidity": 89,
+            "apparent_temperature": -2,
+            "precipitation probability": 5.0,
+            "overcast": "cloudy"
+        },
+        "19": {
+            "temperature": 0,
+            "humidity": 89,
+            "apparent_temperature": -2,
+            "precipitation probability": 13.0,
+            "overcast": "cloudy"
+        },
+        "20": {
+            "temperature": 0,
+            "humidity": 89,
+            "apparent_temperature": -2,
+            "precipitation probability": 18.0,
+            "overcast": "cloudy"
+        },
+        "21": {
+            "temperature": 0,
+            "humidity": 89,
+            "apparent_temperature": -2,
+            "precipitation probability": 28.0,
+            "overcast": "cloudy"
+        },
+        "22": {
+            "temperature": 0,
+            "humidity": 89,
+            "apparent_temperature": -2,
+            "precipitation probability": 33.0,
+            "overcast": "cloudy"
+        }
+    },
+    "daily_weekone": {
+        "2026-01-27": {
+            "maxtemp": 1,
+            "mintemp": 0,
+            "maxwindgusts": 18,
+            "maxwindspeed": 6,
+            "overcast": "cloudy",
+            "precipitation": "rain"
+        },
+        "2026-01-28": {
+            "maxtemp": 0,
+            "mintemp": -1,
+            "maxwindgusts": 10,
+            "maxwindspeed": 4,
+            "overcast": "cloudy",
+            "precipitation": "rain"
+        },
+        "2026-01-29": {
+            "maxtemp": 0,
+            "mintemp": -1,
+            "maxwindgusts": 22,
+            "maxwindspeed": 8,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-01-30": {
+            "maxtemp": 1,
+            "mintemp": -1,
+            "maxwindgusts": 20,
+            "maxwindspeed": 7,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-01-31": {
+            "maxtemp": 1,
+            "mintemp": -2,
+            "maxwindgusts": 15,
+            "maxwindspeed": 8,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-01": {
+            "maxtemp": 0,
+            "mintemp": -5,
+            "maxwindgusts": 30,
+            "maxwindspeed": 15,
+            "overcast": "partly cloudy",
+            "precipitation": ""
+        },
+        "2026-02-02": {
+            "maxtemp": 1,
+            "mintemp": -3,
+            "maxwindgusts": 42,
+            "maxwindspeed": 15,
+            "overcast": "cloudy",
+            "precipitation": ""
+        }
+    },
+    "daily_weektwo": {
+        "2026-02-03": {
+            "maxtemp": 2,
+            "mintemp": -1,
+            "maxwindgusts": 15,
+            "maxwindspeed": 9,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-04": {
+            "maxtemp": 2,
+            "mintemp": -1,
+            "maxwindgusts": 24,
+            "maxwindspeed": 8,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-05": {
+            "maxtemp": 0,
+            "mintemp": -3,
+            "maxwindgusts": 17,
+            "maxwindspeed": 10,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-06": {
+            "maxtemp": 0,
+            "mintemp": -4,
+            "maxwindgusts": 13,
+            "maxwindspeed": 7,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-07": {
+            "maxtemp": 0,
+            "mintemp": -4,
+            "maxwindgusts": 5,
+            "maxwindspeed": 4,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-08": {
+            "maxtemp": 1,
+            "mintemp": 0,
+            "maxwindgusts": 12,
+            "maxwindspeed": 6,
+            "overcast": "cloudy",
+            "precipitation": ""
+        },
+        "2026-02-09": {
+            "maxtemp": 4,
+            "mintemp": 0,
+            "maxwindgusts": 18,
+            "maxwindspeed": 10,
+            "overcast": "cloudy",
+            "precipitation": ""
+        }
+    }
+}
